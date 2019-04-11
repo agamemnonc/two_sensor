@@ -2,7 +2,7 @@
 The code provided here reproduces the results in the manuscript "Multi-grip classification-based prosthesis control with two sensors". The manuscript is currently accessible on [biorxiv](https://www.biorxiv.org/content/10.1101/579367v1).
 
 ## Instructions
-The recommended way of reproducing the results is by using [Anaconda](https://anaconda.org/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) and the provided environment file (`conda_env`).
+The recommended way of reproducing the results is by using [Anaconda](https://anaconda.org/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) and the provided environment file (`conda_env.yml`).
 
 Alternatively, you will need a Python 3.6/3.7 installation with the following packages (numbers in brackets indicate tested versions):
 * [Numpy](http://www.numpy.org/) (1.16.2)
