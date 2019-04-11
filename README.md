@@ -8,6 +8,7 @@ Alternatively, you will need a Python 3.6/3.7 installation with the following pa
 * [Numpy](http://www.numpy.org/) (1.16.2)
 * [Scipy](https://www.scipy.org/) (1.2.1)
 * [Pandas](https://pandas.pydata.org/) (0.24.2)
+* [Statsmodels](https://www.statsmodels.org/stable/index.html) (0.9.0)
 * [Matplotlib](https://matplotlib.org/) (3.0.3)
 * [Seaborn](https://seaborn.pydata.org/) (0.9.0)
 
