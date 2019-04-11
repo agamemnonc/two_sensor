@@ -22,3 +22,6 @@ conda env create -f conda_env.yml
 python Figure_3.py
 python statistical_comparisons.py
 ```
+
+## Feedback
+If you run into any issues when trying to run the scripts or have any other feedback please open a new issue.
