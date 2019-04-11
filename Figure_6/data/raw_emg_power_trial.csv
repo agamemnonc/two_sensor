@@ -1,0 +1,281 @@
+Subject number,Subject type,Trial,Electrodes,EMG variance
+1,Able-bodied,1,Used,2.908986329693009e-09
+1,Able-bodied,1,Not used,1.4733398406144007e-09
+1,Able-bodied,2,Used,2.9708294214880095e-09
+1,Able-bodied,2,Not used,1.7015059492875791e-09
+1,Able-bodied,3,Used,3.6661237210240043e-09
+1,Able-bodied,3,Not used,1.8886475716512426e-09
+1,Able-bodied,4,Used,3.3764259153191703e-09
+1,Able-bodied,4,Not used,1.9566517876577444e-09
+1,Able-bodied,5,Used,5.085057128222286e-09
+1,Able-bodied,5,Not used,2.325203231709598e-09
+1,Able-bodied,6,Used,5.23167337711795e-09
+1,Able-bodied,6,Not used,2.3364562409812494e-09
+1,Able-bodied,7,Used,4.813502532682043e-09
+1,Able-bodied,7,Not used,1.948558883823457e-09
+1,Able-bodied,8,Used,4.560336471430257e-09
+1,Able-bodied,8,Not used,2.0231776039056475e-09
+1,Able-bodied,9,Used,4.086750320028337e-09
+1,Able-bodied,9,Not used,1.8944049431598883e-09
+1,Able-bodied,10,Used,3.998387895923788e-09
+1,Able-bodied,10,Not used,1.9347223802948448e-09
+2,Able-bodied,1,Used,1.3268059195764822e-09
+2,Able-bodied,1,Not used,1.91940857892895e-09
+2,Able-bodied,2,Used,1.3045594938005482e-09
+2,Able-bodied,2,Not used,2.1403441911384854e-09
+2,Able-bodied,3,Used,1.4588064824729264e-09
+2,Able-bodied,3,Not used,2.1496013513988825e-09
+2,Able-bodied,4,Used,1.4857612198805664e-09
+2,Able-bodied,4,Not used,2.2083503932697304e-09
+2,Able-bodied,5,Used,1.8746109572905407e-09
+2,Able-bodied,5,Not used,2.1835838406674282e-09
+2,Able-bodied,6,Used,1.4627401999423636e-09
+2,Able-bodied,6,Not used,1.908339287219386e-09
+2,Able-bodied,7,Used,1.0993428980273415e-09
+2,Able-bodied,7,Not used,2.0979649133682875e-09
+2,Able-bodied,8,Used,1.0839738694565355e-09
+2,Able-bodied,8,Not used,1.8166440545010401e-09
+2,Able-bodied,9,Used,1.057366093618338e-09
+2,Able-bodied,9,Not used,1.7607778829477483e-09
+2,Able-bodied,10,Used,1.2445114654945542e-09
+2,Able-bodied,10,Not used,2.1624739700882862e-09
+3,Able-bodied,1,Used,4.576180482259801e-09
+3,Able-bodied,1,Not used,1.6287971440936518e-09
+3,Able-bodied,2,Used,4.766675061287262e-09
+3,Able-bodied,2,Not used,1.652633781555065e-09
+3,Able-bodied,3,Used,5.483573122234312e-09
+3,Able-bodied,3,Not used,2.0296561144155328e-09
+3,Able-bodied,4,Used,6.443515301488231e-09
+3,Able-bodied,4,Not used,2.1987835724056262e-09
+3,Able-bodied,5,Used,3.1759762110982153e-09
+3,Able-bodied,5,Not used,1.3589833155551378e-09
+3,Able-bodied,6,Used,2.9171996846417906e-09
+3,Able-bodied,6,Not used,1.3382640304590135e-09
+3,Able-bodied,7,Used,4.465185319815614e-09
+3,Able-bodied,7,Not used,1.969063654976058e-09
+3,Able-bodied,8,Used,3.35896962145362e-09
+3,Able-bodied,8,Not used,1.3532201744494956e-09
+3,Able-bodied,9,Used,3.1673548752730988e-09
+3,Able-bodied,9,Not used,9.802608811204042e-10
+3,Able-bodied,10,Used,2.8968002362088216e-09
+3,Able-bodied,10,Not used,1.3162534712758194e-09
+4,Able-bodied,1,Used,1.8393144107878696e-09
+4,Able-bodied,1,Not used,7.998864737944959e-10
+4,Able-bodied,2,Used,2.4793890677679167e-09
+4,Able-bodied,2,Not used,7.944355905434681e-10
+4,Able-bodied,3,Used,2.695028237248047e-09
+4,Able-bodied,3,Not used,7.43430599794211e-10
+4,Able-bodied,4,Used,1.8616706840456392e-09
+4,Able-bodied,4,Not used,6.235848354446041e-10
+4,Able-bodied,5,Used,1.9950788388982818e-09
+4,Able-bodied,5,Not used,6.273676977899859e-10
+4,Able-bodied,6,Used,1.6631712775444514e-09
+4,Able-bodied,6,Not used,7.18399050812216e-10
+4,Able-bodied,7,Used,1.4663352853913432e-09
+4,Able-bodied,7,Not used,7.133706623856271e-10
+4,Able-bodied,8,Used,1.9115666922693156e-09
+4,Able-bodied,8,Not used,1.045669572177756e-09
+4,Able-bodied,9,Used,1.838231454215351e-09
+4,Able-bodied,9,Not used,6.197593261537318e-10
+4,Able-bodied,10,Used,2.4813760874065242e-09
+4,Able-bodied,10,Not used,7.508605078982478e-10
+5,Able-bodied,1,Used,8.153895104530678e-09
+5,Able-bodied,1,Not used,2.57920907661069e-09
+5,Able-bodied,2,Used,7.400030164143105e-09
+5,Able-bodied,2,Not used,2.50042342415283e-09
+5,Able-bodied,3,Used,8.410906439802573e-09
+5,Able-bodied,3,Not used,2.532932094300921e-09
+5,Able-bodied,4,Used,6.4798451716869e-09
+5,Able-bodied,4,Not used,2.58576413014479e-09
+5,Able-bodied,5,Used,7.409382755432228e-09
+5,Able-bodied,5,Not used,2.390507177462032e-09
+5,Able-bodied,6,Used,6.942126683401667e-09
+5,Able-bodied,6,Not used,2.4649386060928663e-09
+5,Able-bodied,7,Used,8.76809348445773e-09
+5,Able-bodied,7,Not used,2.798569981048353e-09
+5,Able-bodied,8,Used,6.6903793771032684e-09
+5,Able-bodied,8,Not used,2.1046460801635436e-09
+5,Able-bodied,9,Used,7.209260180378481e-09
+5,Able-bodied,9,Not used,2.384615529292739e-09
+5,Able-bodied,10,Used,9.287861656186972e-09
+5,Able-bodied,10,Not used,2.9282321121549875e-09
+6,Able-bodied,1,Used,1.6401079400161214e-10
+6,Able-bodied,1,Not used,3.199934247802646e-10
+6,Able-bodied,2,Used,1.5690080681772776e-10
+6,Able-bodied,2,Not used,3.303645441891819e-10
+6,Able-bodied,3,Used,2.422416126768432e-10
+6,Able-bodied,3,Not used,4.657147997788502e-10
+6,Able-bodied,4,Used,1.9808302333190063e-10
+6,Able-bodied,4,Not used,2.838939927773728e-10
+6,Able-bodied,5,Used,1.724715928919781e-10
+6,Able-bodied,5,Not used,2.6602428074596556e-10
+6,Able-bodied,6,Used,1.4843517529579683e-10
+6,Able-bodied,6,Not used,2.3217468791187104e-10
+6,Able-bodied,7,Used,1.452707997979299e-10
+6,Able-bodied,7,Not used,2.6197210795545154e-10
+6,Able-bodied,8,Used,1.4891864185256086e-10
+6,Able-bodied,8,Not used,2.491314998750839e-10
+6,Able-bodied,9,Used,2.4162597040809866e-10
+6,Able-bodied,9,Not used,4.386275294903451e-10
+6,Able-bodied,10,Used,1.7385259595103264e-10
+6,Able-bodied,10,Not used,2.978479729365119e-10
+7,Able-bodied,1,Used,1.1130379369480517e-08
+7,Able-bodied,1,Not used,7.2802150195127104e-09
+7,Able-bodied,2,Used,1.238824090017264e-08
+7,Able-bodied,2,Not used,7.354700671608348e-09
+7,Able-bodied,3,Used,1.0698766711928866e-08
+7,Able-bodied,3,Not used,6.7000665788676035e-09
+7,Able-bodied,4,Used,9.796293211428368e-09
+7,Able-bodied,4,Not used,4.869500463944882e-09
+7,Able-bodied,5,Used,1.0843677950347553e-08
+7,Able-bodied,5,Not used,5.720707229555486e-09
+7,Able-bodied,6,Used,1.4946581023723487e-08
+7,Able-bodied,6,Not used,5.88459338907567e-09
+7,Able-bodied,7,Used,1.3901351012466748e-08
+7,Able-bodied,7,Not used,6.292992069607816e-09
+7,Able-bodied,8,Used,1.130184837552952e-08
+7,Able-bodied,8,Not used,5.1065019814518015e-09
+7,Able-bodied,9,Used,6.246331913359104e-09
+7,Able-bodied,9,Not used,4.359505646641444e-09
+7,Able-bodied,10,Used,8.202856298555198e-09
+7,Able-bodied,10,Not used,4.076916599371371e-09
+8,Able-bodied,1,Used,4.082110546099163e-09
+8,Able-bodied,1,Not used,2.8560416337011456e-09
+8,Able-bodied,2,Used,4.199907189359672e-09
+8,Able-bodied,2,Not used,3.187037647758795e-09
+8,Able-bodied,3,Used,3.2218711901556236e-09
+8,Able-bodied,3,Not used,2.01848127718537e-09
+8,Able-bodied,4,Used,4.174677267793571e-09
+8,Able-bodied,4,Not used,2.8044330084759888e-09
+8,Able-bodied,5,Used,2.503934132532365e-09
+8,Able-bodied,5,Not used,1.8384262058405429e-09
+8,Able-bodied,6,Used,4.152842861107237e-09
+8,Able-bodied,6,Not used,3.2491142471134344e-09
+8,Able-bodied,7,Used,4.097994764506197e-09
+8,Able-bodied,7,Not used,3.661078403144239e-09
+8,Able-bodied,8,Used,4.094487761819322e-09
+8,Able-bodied,8,Not used,3.218641821790902e-09
+8,Able-bodied,9,Used,4.274250313933989e-09
+8,Able-bodied,9,Not used,3.3115397626858485e-09
+8,Able-bodied,10,Used,4.244041678869348e-09
+8,Able-bodied,10,Not used,3.110858335678763e-09
+9,Able-bodied,1,Used,9.129888061589282e-10
+9,Able-bodied,1,Not used,1.0137260018361252e-09
+9,Able-bodied,2,Used,1.3932325615905637e-09
+9,Able-bodied,2,Not used,9.532858914513138e-10
+9,Able-bodied,3,Used,1.2838089844714186e-09
+9,Able-bodied,3,Not used,9.000248117286822e-10
+9,Able-bodied,4,Used,1.1654885166065359e-09
+9,Able-bodied,4,Not used,8.04954157020404e-10
+9,Able-bodied,5,Used,9.58700401368309e-10
+9,Able-bodied,5,Not used,1.0047047157247865e-09
+9,Able-bodied,6,Used,1.2130264688836752e-09
+9,Able-bodied,6,Not used,8.238185285887497e-10
+9,Able-bodied,7,Used,1.1338909537148067e-09
+9,Able-bodied,7,Not used,6.916724640301385e-10
+9,Able-bodied,8,Used,1.1147331486646942e-09
+9,Able-bodied,8,Not used,6.885009553350415e-10
+9,Able-bodied,9,Used,1.161870658255879e-09
+9,Able-bodied,9,Not used,7.189732806154405e-10
+9,Able-bodied,10,Used,9.123586817589696e-10
+9,Able-bodied,10,Not used,6.564650892564691e-10
+10,Able-bodied,1,Used,2.3131376461923816e-09
+10,Able-bodied,1,Not used,5.960285333874339e-09
+10,Able-bodied,2,Used,2.817326245390232e-09
+10,Able-bodied,2,Not used,2.543992791699186e-09
+10,Able-bodied,3,Used,3.895362012858077e-09
+10,Able-bodied,3,Not used,3.1791108836740153e-09
+10,Able-bodied,4,Used,2.5233513228805685e-09
+10,Able-bodied,4,Not used,2.9032360306540466e-09
+10,Able-bodied,5,Used,1.9162135859638913e-09
+10,Able-bodied,5,Not used,2.171352070003112e-09
+10,Able-bodied,6,Used,2.048352500441589e-09
+10,Able-bodied,6,Not used,2.36666691070985e-09
+10,Able-bodied,7,Used,2.586436832045746e-09
+10,Able-bodied,7,Not used,1.863128649743268e-09
+10,Able-bodied,8,Used,2.036851680170948e-09
+10,Able-bodied,8,Not used,2.10945761486857e-09
+10,Able-bodied,9,Used,1.6866984784046532e-09
+10,Able-bodied,9,Not used,1.990964076360596e-09
+10,Able-bodied,10,Used,2.0797925394748194e-09
+10,Able-bodied,10,Not used,2.0127510893016633e-09
+11,Able-bodied,1,Used,5.416931519201293e-10
+11,Able-bodied,1,Not used,2.978056317105282e-09
+11,Able-bodied,2,Used,7.501971142087133e-10
+11,Able-bodied,2,Not used,2.31338770939579e-09
+11,Able-bodied,3,Used,7.320197575184854e-10
+11,Able-bodied,3,Not used,2.6492221907149207e-09
+11,Able-bodied,4,Used,9.068412740273101e-10
+11,Able-bodied,4,Not used,2.8303140250138974e-09
+11,Able-bodied,5,Used,7.496121558410507e-10
+11,Able-bodied,5,Not used,2.4971159454164513e-09
+11,Able-bodied,6,Used,5.360581376576911e-10
+11,Able-bodied,6,Not used,2.742348539819081e-09
+11,Able-bodied,7,Used,5.659777159060138e-10
+11,Able-bodied,7,Not used,2.0347582436725034e-09
+11,Able-bodied,8,Used,3.9514817634822733e-10
+11,Able-bodied,8,Not used,2.5186585055737886e-09
+11,Able-bodied,9,Used,8.515905679081225e-10
+11,Able-bodied,9,Not used,2.0103675603027384e-09
+11,Able-bodied,10,Used,6.421993705735715e-10
+11,Able-bodied,10,Not used,2.1946151583787346e-09
+12,Able-bodied,1,Used,2.807531569896239e-09
+12,Able-bodied,1,Not used,2.3566083183038022e-09
+12,Able-bodied,2,Used,2.007579349261436e-09
+12,Able-bodied,2,Not used,2.281413483164393e-09
+12,Able-bodied,3,Used,2.754477219799406e-09
+12,Able-bodied,3,Not used,2.5689915541345303e-09
+12,Able-bodied,4,Used,2.7678946032206416e-09
+12,Able-bodied,4,Not used,2.6739904178660643e-09
+12,Able-bodied,5,Used,1.237700894731067e-09
+12,Able-bodied,5,Not used,1.4417524399480636e-09
+12,Able-bodied,6,Used,2.401370720267841e-09
+12,Able-bodied,6,Not used,2.2539807621011262e-09
+12,Able-bodied,7,Used,1.3662986203050977e-09
+12,Able-bodied,7,Not used,2.1045015361705208e-09
+12,Able-bodied,8,Used,2.0948241844121086e-09
+12,Able-bodied,8,Not used,2.0790997080943638e-09
+12,Able-bodied,9,Used,1.902967190432073e-09
+12,Able-bodied,9,Not used,2.3336541736739714e-09
+12,Able-bodied,10,Used,1.8229328005503875e-09
+12,Able-bodied,10,Not used,2.0312839290782362e-09
+20,Amputee,1,Used,2.0698093648627503e-09
+20,Amputee,1,Not used,1.2223653778441627e-09
+20,Amputee,2,Used,1.4714548119925683e-09
+20,Amputee,2,Not used,9.423786531569973e-10
+20,Amputee,3,Used,1.7356402188267545e-09
+20,Amputee,3,Not used,1.0843238404939004e-09
+20,Amputee,4,Used,1.5395579666270905e-09
+20,Amputee,4,Not used,9.246726600388731e-10
+20,Amputee,5,Used,9.423554370233531e-10
+20,Amputee,5,Not used,5.567886027979834e-10
+20,Amputee,6,Used,1.2523111400219522e-09
+20,Amputee,6,Not used,8.953151225847036e-10
+20,Amputee,7,Used,9.066362238284026e-10
+20,Amputee,7,Not used,6.789854875464511e-10
+20,Amputee,8,Used,1.446679932469454e-09
+20,Amputee,8,Not used,8.723523361144445e-10
+20,Amputee,9,Used,1.075563728287349e-09
+20,Amputee,9,Not used,5.951392321008799e-10
+20,Amputee,10,Used,9.971890879453595e-10
+20,Amputee,10,Not used,6.2821810991674e-10
+21,Amputee,1,Used,1.07131406355108e-08
+21,Amputee,1,Not used,4.314709097825198e-09
+21,Amputee,2,Used,1.1046142645413388e-08
+21,Amputee,2,Not used,4.520886398051861e-09
+21,Amputee,3,Used,1.0517193204461575e-08
+21,Amputee,3,Not used,4.143486545486668e-09
+21,Amputee,4,Used,8.863053847021713e-09
+21,Amputee,4,Not used,3.1411542646015284e-09
+21,Amputee,5,Used,8.956577499529142e-09
+21,Amputee,5,Not used,3.4239892069173794e-09
+21,Amputee,6,Used,5.473509060290627e-09
+21,Amputee,6,Not used,2.2183315408088982e-09
+21,Amputee,7,Used,6.712560420625186e-09
+21,Amputee,7,Not used,2.7079294509301576e-09
+21,Amputee,8,Used,7.482482576058713e-09
+21,Amputee,8,Not used,2.7183128658414244e-09
+21,Amputee,9,Used,7.26049848505986e-09
+21,Amputee,9,Not used,2.1974364513430753e-09
+21,Amputee,10,Used,9.105123065219968e-09
+21,Amputee,10,Not used,3.013922949445478e-09
