@@ -144,5 +144,5 @@ fig.text(0.02, 0.36, "c", weight="bold")
 fig.align_ylabels(axs=[ax1, ax3, ax5])
 fig.tight_layout(rect=[0, 0.02, 1, 1])
 plt.subplots_adjust(wspace=0.02, hspace=0.4)
-plt.savefig('Fig_3.pdf', dpi=600, bbox_inches='tight',transparent=False,
+plt.savefig('Figure_3.pdf', dpi=600, bbox_inches='tight',transparent=False,
             pad_inches=0)

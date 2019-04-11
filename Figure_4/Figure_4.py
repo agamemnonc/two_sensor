@@ -123,5 +123,5 @@ fig.text(0.02, 0.61, "c", weight="bold")
 
 fig.tight_layout()
 fig.subplots_adjust(hspace=0.2)
-plt.savefig('Fig_4.pdf', dpi=600, bbox_inches='tight',
+plt.savefig('Figure_4.pdf', dpi=600, bbox_inches='tight',
             transparent=False, pad_inches=0)
