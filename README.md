@@ -17,4 +17,7 @@ Alternatively, you will need a Python 3.6/3.7 installation with the following pa
 conda env create -f conda_env.yml
 ```
 
-3. Navigate to the directory relevant to the figure of the manuscript you wish to reproduce (e.g. Figure_3) and then run corresponding script (e.g. `python Figure_3.py`)
+3. Navigate to the directory relevant to the figure of the manuscript you wish to reproduce (e.g. Figure_3) and then run corresponding script.
+```
+python Figure_3.py
+```
