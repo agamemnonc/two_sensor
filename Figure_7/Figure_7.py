@@ -1,9 +1,9 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import statsmodels.api as sm
 import warnings
 
+from utils import robust_reg_model_p
 warnings.filterwarnings("ignore")
 
 # Load data
@@ -12,17 +12,10 @@ df = pd.read_csv('data/average_results.csv')
 # Fit robust regression models between offline metrics (classification
 # accuracy and logarithmic loss) and average completion time.
 
-X = sm.add_constant(df["Balanced cross-entropy loss"])
-y = df["Average completion time"]
-est_cel = sm.RLM(y, X)
-est_cel = est_cel.fit()
-pvalue_cel = est_cel.pvalues[1]
-
-X = sm.add_constant(df["Balanced classification accuracy"])
-y = df["Average completion time"]
-est_ca = sm.RLM(y, X)
-est_ca = est_ca.fit()
-pvalue_ca = est_ca.pvalues[1]
+pvalue_cel = robust_reg_model_p(df["Balanced cross-entropy loss"],
+                                df["Average completion time"])
+pvalue_ca = robust_reg_model_p(df["Balanced classification accuracy"],
+                                df["Average completion time"])
 
 # Make the plot
 sns.set(rc={'axes.facecolor':'#f5f5f5'}, style="darkgrid",
