@@ -17,4 +17,9 @@ Alternatively, you will need a Python 3.6/3.7 installation with the following pa
 conda env create -f conda_env.yml
 ```
 
-3. To reproduce a figure in the manuscript navigate to the relevant directory and then run corresponding script (e.g. `python Figure_3.py`). The data associated with each figure is located in the same directory. To reproduce the outcomes of statistical results reported in the manuscript run the corresponding script; a report will be printed on the console (e.g. `python statistical_comparisons.py`). 
+3. To reproduce a figure in the manuscript navigate to the relevant directory and then run corresponding script. The data associated with each figure is located in the same directory. To reproduce the outcomes of statistical results reported in the manuscript run the corresponding script; a report will be printed on the console. 
+For example, navigate to directory `Figure_3` and run the following commands:
+```
+python Figure_3.py
+python statistical_comparisons.py
+```
