@@ -1,5 +1,5 @@
 # two_sensor
-The code provided here will reproduce the results in the manuscript "Multi-grip classification-based prosthesis control with two sensors", which is currently accessible on [biorxiv](https://www.biorxiv.org/content/10.1101/579367v1).
+The code provided here reproduces the results in the manuscript "Multi-grip classification-based prosthesis control with two sensors", which is currently accessible on [biorxiv](https://www.biorxiv.org/content/10.1101/579367v1).
 
 ## Instructions
 The recommended way of reproducing the results is by using [Anaconda](https://anaconda.org/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) and the provided environment file (`conda_env`).
