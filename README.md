@@ -4,14 +4,6 @@ The code provided here reproduces the analysis and figures in the manuscript "Mu
 ## Instructions
 The recommended way of reproducing the results is by using [Anaconda](https://anaconda.org/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) and the provided environment file (`conda_env.yml`).
 
-Alternatively, you will need a Python 3.6/3.7 installation with the following packages (numbers in brackets indicate tested versions):
-* [Numpy](http://www.numpy.org/) (1.16.2)
-* [Scipy](https://www.scipy.org/) (1.2.1)
-* [Pandas](https://pandas.pydata.org/) (0.24.2)
-* [Statsmodels](https://www.statsmodels.org/stable/index.html) (0.9.0)
-* [Matplotlib](https://matplotlib.org/) (3.0.3)
-* [Seaborn](https://seaborn.pydata.org/) (0.9.0)
-
 1. Clone the repository or download as zip.
 2. Create conda environment from file. The environment is called `two_sensor_env`. It should take approximately 3 min to setup this environment on a standard machine. See [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html?highlight=environment) for detailed instructions on conda environments.
 ```
@@ -29,6 +21,18 @@ python Figure_3.py
 python statistical_comparisons.py
 ```
 
+## Instructions without using Anaconda/Miniconda
+If you do not wish to use Anaconda/Miniconda, you will need a working Python 3.6/3.7 installation with the following packages (numbers in brackets indicate tested versions):
+* [Numpy](http://www.numpy.org/) (1.16.2)
+* [Scipy](https://www.scipy.org/) (1.2.1)
+* [Pandas](https://pandas.pydata.org/) (0.24.2)
+* [Statsmodels](https://www.statsmodels.org/stable/index.html) (0.9.0)
+* [Matplotlib](https://matplotlib.org/) (3.0.3)
+* [Seaborn](https://seaborn.pydata.org/) (0.9.0)
+
+Once you have setup a working environment, follow steps 1 and 4 above.
+
+## Script execution time
 All scripts should take less than a minute to run.
 
 ## Contents
