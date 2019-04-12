@@ -31,5 +31,14 @@ python statistical_comparisons.py
 
 All scripts should take less than a minute to run.
 
+## Contents
+The following list provides details on the contents of each sub-directory and how to reproduce every figure in the manuscript.
+* `offline_analysis`: Offline analysis. Reproduce Figure 3 and related statistical comparisons.
+* `working_principle`: Working principle of the real-time control framework. Reproduce Figure 4.
+* `real_time_analysis`: Analysis of results from real-time control experiment. Reproduce Figure 5, related statistical comparisons, and reported performance summaries.
+* `emg_power`: Analysis of task practice on EMG power. Reproduce Figure 6.
+* `metrics`: Offline and real-time performance metrics comparison. Reproduce Figure 7.
+* `confidence_rejection`: Confidence-based rejection. Reproduce Figure 8.
+
 ## Issues/Feedback
 If you run into any issues when trying to run the scripts or have any feedback on the code and/or results please open a new issue.
