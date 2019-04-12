@@ -13,7 +13,7 @@ Alternatively, you will need a Python 3.6/3.7 installation with the following pa
 * [Seaborn](https://seaborn.pydata.org/) (0.9.0)
 
 1. Clone the repository or download as zip.
-2. Create conda environment from file. The environment is called `two_sensor_env`. See [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html?highlight=environment) for detailed instructions on conda environments.
+2. Create conda environment from file. The environment is called `two_sensor_env`. It should take approximately 3 min to setup this environment on a standard machine. See [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html?highlight=environment) for detailed instructions on conda environments.
 ```
 conda env create -f conda_env.yml
 ```
@@ -28,6 +28,8 @@ conda activate two_sensor_env
 python Figure_3.py
 python statistical_comparisons.py
 ```
+
+All scripts should take less than a minute to run.
 
 ## Issues/Feedback
 If you run into any issues when trying to run the scripts or have any feedback on the code and/or results please open a new issue.
