@@ -21,7 +21,7 @@ On Linux/OS X:
 source activate two_sensor_env
 ```
 
-4. To reproduce a figure in the manuscript navigate to the relevant directory (this is important, otherwise you will receive an error) and run the corresponding script. The data associated with each figure is located in the same directory. To reproduce the outcomes of the statistical results reported in the manuscript run the corresponding script. A report will be printed on the console. For example, assuming that you are inside the directory `Figure_3`, you can run the following commands:
+4. To reproduce a figure in the manuscript navigate to the relevant directory (this is important, otherwise you will receive an error) and run the corresponding script. The data associated with each figure is located in the same directory. To reproduce the outcomes of the statistical results reported in the manuscript run the corresponding script. A report will be printed on the console. For example, assuming that you are inside the directory `offline_analysis`, you can run the following commands:
 ```
 python Figure_3.py
 python statistical_comparisons.py
