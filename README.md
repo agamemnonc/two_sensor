@@ -5,14 +5,19 @@ The code provided here reproduces the analysis and figures in the manuscript "Mu
 The recommended way of reproducing the results is by using [Anaconda](https://anaconda.org/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) and the provided environment file (`conda_env.yml`).
 
 1. Clone the repository or download as zip.
-2. Create conda environment from file. The environment is called `two_sensor_env`. It should take approximately 3 min to setup this environment on a standard machine. See [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html?highlight=environment) for detailed instructions on conda environments.
+2. Navigate in the repo you have just cloned/downloaded and create a conda environment using the file `conda_env.yml`. The environment will be called `two_sensor_env`. It should take approximately 3 min to setup this environment on a standard machine. See [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html?highlight=environment) for more details on conda environments (not required).
 ```
 conda env create -f conda_env.yml
 ```
 
 3. Activate the environment.
+<br/><br/>On Windows:
 ```
 conda activate two_sensor_env
+```
+<br/><br/>On Linux/OS X:
+```
+source activate two_sensor_env
 ```
 
 4. To reproduce a figure in the manuscript navigate to the relevant directory (this is important, otherwise you will receive an error) and run the corresponding script. The data associated with each figure is located in the same directory. To reproduce the outcomes of the statistical results reported in the manuscript run the corresponding script. A report will be printed on the console. For example, assuming that you are inside the directory `Figure_3`, you can run the following commands:
