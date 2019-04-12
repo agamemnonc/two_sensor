@@ -43,7 +43,7 @@ Once you have setup a working environment, follow steps 1 and 4 above.
 All scripts should take less than a minute to run.
 
 ## Contents
-The following list provides details on the contents of each sub-directory and how to reproduce every figure in the manuscript.
+The following list provides details on the contents of each sub-directory and how to reproduce every results figure in the manuscript.
 * `offline_analysis`: Offline analysis. Reproduce Figure 3 and related statistical comparisons.
 * `working_principle`: Working principle of the real-time control framework. Reproduce Figure 4.
 * `real_time_analysis`: Analysis of results from real-time control experiment. Reproduce Figure 5, related statistical comparisons, and reported performance summaries.
