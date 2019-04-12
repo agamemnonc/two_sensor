@@ -13,16 +13,21 @@ Alternatively, you will need a Python 3.6/3.7 installation with the following pa
 * [Seaborn](https://seaborn.pydata.org/) (0.9.0)
 
 1. Clone the repository or download as zip.
-2. Create conda environment from file (see [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html?highlight=environment) for detailed instructions on conda environments).
+2. Create conda environment from file. The environment is called `two_sensor_env`. See [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html?highlight=environment) for detailed instructions on conda environments.
 ```
 conda env create -f conda_env.yml
 ```
 
-3. To reproduce a figure in the manuscript navigate to the relevant directory (this is important, otherwise you will receive an error) and run the corresponding script. The data associated with each figure is located in the same directory. To reproduce the outcomes of the statistical results reported in the manuscript run the corresponding script. A report will be printed on the console. For example, assuming that you are inside the directory `Figure_3`, you can run the following commands:
+3. Activate the environment.
+```
+conda activate two_sensor_env
+```
+
+4. To reproduce a figure in the manuscript navigate to the relevant directory (this is important, otherwise you will receive an error) and run the corresponding script. The data associated with each figure is located in the same directory. To reproduce the outcomes of the statistical results reported in the manuscript run the corresponding script. A report will be printed on the console. For example, assuming that you are inside the directory `Figure_3`, you can run the following commands:
 ```
 python Figure_3.py
 python statistical_comparisons.py
 ```
 
 ## Issues/Feedback
-If you run into any issues when trying to run the scripts or if have any feedback on the code and/or results please open a new issue and I will be happy to help or discuss.
+If you run into any issues when trying to run the scripts or have any feedback on the code and/or results please open a new issue.
