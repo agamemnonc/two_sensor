@@ -11,6 +11,7 @@ conda env create -f conda_env.yml
 ```
 
 3. Activate the environment.
+
 On Windows:
 ```
 conda activate two_sensor_env
