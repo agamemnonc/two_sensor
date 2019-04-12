@@ -26,6 +26,7 @@ source activate two_sensor_env
 python Figure_3.py
 python statistical_comparisons.py
 ```
+Statistical comparison and other summaries will be printed on the console and figures will be saved in `.pdf` format in the same directory. 
 
 ## Instructions without using Anaconda/Miniconda
 If you do not wish to use Anaconda/Miniconda, you will need a working Python 3.6/3.7 installation with the following packages (numbers in brackets indicate tested versions):
