@@ -11,11 +11,11 @@ conda env create -f conda_env.yml
 ```
 
 3. Activate the environment.
-<br/><br/>On Windows:
+On Windows:
 ```
 conda activate two_sensor_env
 ```
-<br/><br/>On Linux/OS X:
+On Linux/OS X:
 ```
 source activate two_sensor_env
 ```
